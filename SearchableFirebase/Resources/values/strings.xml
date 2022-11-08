@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SearchableFirebase</string>
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131771660383",
+    "project_id": "spinnerexample-ac012",
+    "storage_bucket": "spinnerexample-ac012.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131771660383:android:30e14ad0400263a24883ea",
+        "android_client_info": {
+          "package_name": "com.companyname.searchablefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131771660383-tsjkh7mpeqgpaj5jcob8980i9t6uvqhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQa18S-FCMz-I_TRTy_QmQC0oUfaaON2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131771660383-tsjkh7mpeqgpaj5jcob8980i9t6uvqhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
